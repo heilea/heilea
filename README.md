@@ -1,4 +1,9 @@
-## Hi there 👋
+
+  # Hi there 👋🍉
+
+  - ✈️ Currently working on Fligth simulator
+  - 🌱 Currently learning Javascript Vanilla
+  - 🙏🏼 Currently looking for help with Amadeus API calls
 
 <!--
 **heilea/heilea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
