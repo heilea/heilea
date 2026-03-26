@@ -1,9 +1,9 @@
 ![from url](https://c4.wallpaperflare.com/wallpaper/214/442/543/digital-art-son-goku-dragon-ball-dragon-ball-z-island-hd-wallpaper-preview.jpg)
   # Hi there 👋🍉
 
-  - ✈️ Currently working on Fligth simulator
-  - 🌱 Currently learning Javascript Vanilla
-  - 🙏🏼 Currently looking for help with Amadeus API calls
+  - ✈️ Currently building a Flight simulator
+  - 🌱 Currently learning Claude code
+  - 🙏🏼 Currently working on a car lease marketplace
 
 <!--
 **heilea/heilea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
